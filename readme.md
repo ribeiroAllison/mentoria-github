@@ -4,3 +4,4 @@
 - compartilhar github
 - Clonar projeto 
 - Configurar git
+- adm de branchs
